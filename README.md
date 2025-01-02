@@ -8,3 +8,7 @@ HuggingFace LLM Integration: To process and generate accurate and context-driven
 Streamlit Interface: For an interactive and user-friendly chat experience.
 
 This tool ensures responses are drawn strictly from the provided knowledge base, offering reliable and trustworthy information in the medical domain.
+
+
+![Project Demo](./MediBot.gif)
+
